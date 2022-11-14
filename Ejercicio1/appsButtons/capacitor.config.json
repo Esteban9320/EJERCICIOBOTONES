@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "appsButtons",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
